@@ -1,3 +1,14 @@
+# Sobre mim🫀
+
+## *editando perfil*
+### teste
+
+- **olá, eu sou @euthaugoncalvs**
+- :+1:0 meu [e-mail](thauani.moraes@esola.pr.gov.br)
+  
+
+
+
 - 👋 Olá, eu sou a @thaugoncalvs
 - 👀 Eu estou interessada em programaçâo html
 - 🌱 Frequentemente busco aprender css, github, desenvolvimento pessoal
